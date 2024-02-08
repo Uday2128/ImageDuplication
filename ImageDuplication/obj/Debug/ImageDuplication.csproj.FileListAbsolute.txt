@@ -1,0 +1,6 @@
+E:\Dev_Applications\ImageDuplication\ImageDuplication\bin\Debug\ImageDuplication.exe.config
+E:\Dev_Applications\ImageDuplication\ImageDuplication\bin\Debug\ImageDuplication.exe
+E:\Dev_Applications\ImageDuplication\ImageDuplication\bin\Debug\ImageDuplication.pdb
+E:\Dev_Applications\ImageDuplication\ImageDuplication\obj\Debug\ImageDuplication.csprojResolveAssemblyReference.cache
+E:\Dev_Applications\ImageDuplication\ImageDuplication\obj\Debug\ImageDuplication.exe
+E:\Dev_Applications\ImageDuplication\ImageDuplication\obj\Debug\ImageDuplication.pdb
