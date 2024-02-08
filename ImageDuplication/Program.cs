@@ -12,7 +12,7 @@ namespace ImageDuplication
     {
         static void Main(string[] args)
         {
-            DetectDuplicate(@"E:\Dev_Applications\AP_SEEDS\AP_SEEDS\Assets\Images");
+            DetectDuplicate(@"Your Folder Path");
             Console.ReadLine();
         }
 
