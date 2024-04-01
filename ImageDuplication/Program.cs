@@ -13,6 +13,7 @@ namespace ImageDuplication
         static void Main(string[] args)
         {
             DetectDuplicate(@"Your Folder Path");
+            Console.WriteLine("Done the Image Verifying...");
             Console.ReadLine();
         }
 
@@ -35,6 +36,7 @@ namespace ImageDuplication
                 {
                     using (var fs = new FileStream(item, FileMode.Open, FileAccess.Read))
                     {
+                        
                         finalDetails.Add(new FileDetails()
                         {
                             FileName = item,
