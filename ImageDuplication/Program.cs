@@ -15,7 +15,6 @@ namespace ImageDuplication
             DetectDuplicate(@"Your Folder Path");
             Console.WriteLine("Done the Image Verifying...");
             Console.ReadLine();
-            // Adding comment to check the Github Integration 
         }
 
         public static void DetectDuplicate(string path)
